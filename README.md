@@ -1,1 +1,1 @@
-# jo26
+# This is my first project on javascript
